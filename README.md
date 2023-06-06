@@ -1,4 +1,4 @@
-# data_analyst_for_Jobs_for_it_practitioner_in_China
+# data_analyst_for_Jobs_for_IT_practitioner_in_China
 猎聘网计算机行业招聘信息的数据分析及可视化
 
 文件结构：
